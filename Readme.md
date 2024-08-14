@@ -6,11 +6,11 @@ This webpage is an overview of myself, and it showcases some of the projects I'v
 
 ## 🚀 Tech Stack
 
-- **DevOps:** Docker, Kubernetes, AWS
+- **DevOps:** Docker, Kubernetes, AWS, Heroku
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, TensorFlow.js, NLTK, AutoML
 - **Frontend:** JavaScript/TypeScript, React.js, Next.js, Express.js, Material UI, Tailwind CSS
 - **Backend:** Python (Flask/FastAPI), Node.js, Spring Boot, Firebase, Supabase, GraphQL, MySQL, Neo4j, MonngoDB
-- **Other Tools:** Git, Redux, LangChain, Pinecone, Heroku, Jira, pydantic, pandas, Plotly, Seaborn
+- **Other Tools:** Git, Redux, LangChain, Pinecone, Jira, pydantic, pandas, Plotly, Seaborn
 
 ## 📫 Let's Connect
 
